@@ -1,0 +1,20 @@
+{
+  "name": "gulp-web-template",
+  "version": "0.0.0",
+  "homepage": "https://github.com/yuruga/gulp-web-template",
+  "authors": [
+    "xlune <ichikawa@xlune.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "react": "~0.11.2"
+  }
+}
